@@ -1,0 +1,207 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.opay{
+    width: 25%;
+    height: 600px;
+    margin: auto;
+    border-radius: 50px;
+    background-color: rgb(242, 240, 238);
+    border: 2px double black;
+}
+
+.head{
+    width: 100%;
+    display: flex;
+}
+.logo{
+    width: 40px;
+    height:  40px;
+    border-radius:  40px;
+}
+
+.logo-h {
+    width: 10%;
+    padding: 14px 14px;
+}
+
+.nav-bar {
+    padding-top: 25px;
+    font-size: 15px;
+}
+
+.note{
+    padding-top: 20px;
+    gap: 10px;
+    padding-
+}
+
+.note1{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.banner {
+    width: 90%;
+    height: 25vh;
+    background-color: rgb(75, 161, 75);
+    border-radius: 20px;
+    margin: auto ;
+}
+
+.avb {
+     display: flex;
+}
+
+.avb>h4{
+    font-size: 13px;
+    padding-left: 20px;
+    color: rgb(235, 228, 228);
+}
+
+.avb>h5{
+    padding-left: 40px;
+    color: white;
+}
+
+.amt {
+    padding-left: 15px;
+    color: rgb(235, 228, 228);
+    margin-top: 10px;
+}
+.amt>p {
+    padding-top: 5px;
+    font-size: 12px;
+}
+
+.trans {
+    display: flex;
+    text-align: center;
+    color:rgb(235, 228, 228);
+    gap: 20px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.transact1{
+    padding-top: 0px;
+    padding-left: 40px;
+}
+
+.transact1>p {
+    font-size: 12px;
+}
+
+.transact>p {
+    font-size: 12px;
+}
+
+.otu {
+    background-color: rgb(235, 228, 228);
+    border-radius: 4px;
+}
+
+.banner-msg {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    display: flex;
+    background-color:white ;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 1px 1px 1px  black;
+}
+
+.b-msg>p{
+    font-size: 10px;
+}
+.b-msg{
+    padding-left: 15px;
+}
+.b-img{
+    padding: 5px 5px;
+}
+
+.service{
+    width: 100%;
+    height: 25vh;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto ;
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px  black;
+    display: grid;
+    grid-template-rows: 80px 50px;
+    grid-template-columns: 70px 70px 70px 70px;
+}
+
+.serv{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.serv-img{
+    width: 25px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: rgb(169, 194, 186);
+    text-align: center;
+}
+
+.serv-img>p{
+    text-align: center;
+    padding-right: 20px;
+}
+
+.mark{
+    width: 100%;
+    height: 15%;
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.banner-msg2{
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    display: flex;
+    background-color:white ;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    box-shadow: 1px 1px 1px  black;
+}
+
+.foot {
+    width: 110%;
+    height: 35%;
+    background-color: white;
+    margin: auto;
+    margin-left: -15px;
+    margin-top: 10px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    display: flex;
+    gap: 30px;
+}
+
+.footer1{
+    padding-left: 25px;
+    padding-top: 5px;
+}
+
+.footer{
+    padding-top: 5px;
+}
+
+.footer1>p {
+    font-size: 10px;
+}
+
+.footer>p {
+     font-size: 10px;
+}
